@@ -1,2 +1,2 @@
-# Excel-Sales-analytics
-This is the repository which explains all the insights of sales analytics
+# Excel-Bookings data
+This is the repository which explains all the insights of bookings data
